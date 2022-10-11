@@ -1,3 +1,4 @@
+/* modifiche header */
 .mc-hight-row-header{
     height: 6.25rem;
 }
@@ -10,5 +11,12 @@ header{
     display: flex;
     justify-content: space-between;
     list-style: none;
-
 }
+/* /modifiche header */
+
+/* modifiche main */
+main{
+    background-color: #1abc9c;
+    min-height: 1000px;
+}
+/*/ modifiche main */
