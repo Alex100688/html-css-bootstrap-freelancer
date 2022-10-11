@@ -21,6 +21,13 @@ header{
 }
 
 .mc-container{
-    max-width: 31.25rem;
+    max-width: 33.75rem;
 }
+
+.box{
+    display: flex;
+    justify-content: center;  
+}
+
+
 /*/ modifiche main */
