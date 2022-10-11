@@ -15,8 +15,10 @@ header{
 /* /modifiche header */
 
 /* modifiche main */
-main{
+.hero{
     background-color: #1abc9c;
-    min-height: 1000px;
+    min-height: 12.5rem;
 }
+
+
 /*/ modifiche main */
