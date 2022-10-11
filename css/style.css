@@ -20,5 +20,7 @@ header{
     min-height: 12.5rem;
 }
 
-
+.mc-container{
+    max-width: 540px;
+}
 /*/ modifiche main */
