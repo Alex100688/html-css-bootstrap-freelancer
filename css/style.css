@@ -19,10 +19,17 @@ header{
     background-color: #1abc9c;
     min-height: 12.5rem;
 }
-
+/* modifiche seconda section */
 .mc-container{
-    max-width: 62.5rem;
+    max-width: 71.875rem;
 }
+
+.mc-color{
+    background-color:#1abc9c;
+    color: white;
+}
+
+
 
 .box{
     display: flex;
@@ -49,4 +56,6 @@ header{
 .fifth{
     background-color: aquamarine;
 }
-/*/ modifiche main */
+/*/ modifiche seconda section */
+
+
