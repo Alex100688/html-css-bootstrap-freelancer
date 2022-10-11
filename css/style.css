@@ -26,8 +26,27 @@ header{
 
 .box{
     display: flex;
-    justify-content: center;  
+    justify-content: center; 
+    align-items: center;
+    height: 3.125rem; 
 }
-
-
+.start{
+    
+    background-color: blue;
+}
+.first{
+    background-color: yellow;
+}
+.second{
+    background-color: red;
+}
+.third{
+    background-color: brown;
+}
+.fourth{
+    background-color: pink;
+}
+.fifth{
+    background-color: aquamarine;
+}
 /*/ modifiche main */
