@@ -12,17 +12,26 @@
 .mc-font{
     font-weight: bold;
 }
-
+.mc-menu-nav{
+    color: currentColor;
+}
 .mc-size{
     font-size: 2.5rem;
 }
-
 
 .mc-header-nav ul{
     display: flex;
     justify-content: space-between;
     list-style: none;
 }
+.fa-bars{
+    color: white;
+}
+.mc-header-nav a{
+    text-decoration: none;
+    color: white;
+}
+
 /* /modifiche header */
 
 /* modifiche main */
