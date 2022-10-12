@@ -21,14 +21,14 @@ header{
 }
 /* modifiche seconda section */
 .mc-container{
-    max-width: 62.5rem;
+    max-width: 25rem;
+   
 }
 
-.mc-color{
+.mc-back-color-main{
     background-color:#1abc9c;
     color: white;
 }
-
 
 
 .box{
